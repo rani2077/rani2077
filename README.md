@@ -16,5 +16,4 @@
 | **[로펙 리빌딩](https://github.com/Team-Lopec/Lopec-FE)** | 기존 프로젝트 Next.js 기반 리빌딩 | 2025.08 - 진행 중 | `Next.js`, `TypeScript`, `Context API` | [URL](https://lopec.kr) |
 
 ## 이메일
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haesung12233@gmail.com)](mailto:haesung12233@gmail.com)
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-haesung12233@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:haesung12233@gmail.com)
