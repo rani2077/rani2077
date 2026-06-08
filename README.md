@@ -8,12 +8,5 @@
 <!-- Tools -->
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> </p>
 
-## 💾 Projects
-
-| 프로젝트 | 설명 | 기간 | 기술 | 서비스URL |
-| :--- | :--- | :---: | :--- | :--- |
-| **[로펙](https://github.com/rani2077/lopec)** | 로스트아크 유저 데이터 분석 서비스 | 2024.09 - 2026.03.04 | `Vanilla JS`, `Node.js` | 리빌딩 완료(현재 미사용) |
-| **[로펙 리빌딩](https://github.com/Team-Lopec/Lopec-FE)** | 기존 프로젝트 Next.js 기반 리빌딩 | 2025.08 - 서비스 중 | `Next.js`, `TypeScript`, `Jotai` | [URL](https://lopec.kr) |
-
 ## 이메일
 [![Gmail Badge](https://img.shields.io/badge/Gmail-haesung12233@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:haesung12233@gmail.com)
